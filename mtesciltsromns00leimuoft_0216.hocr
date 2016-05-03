@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtesciltsromns00leimuoft_0216.png"; bbox 0 0 1826 2944; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1642 0 1826 560">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1642 0 1826 560">
+     <span class='ocr_line' id='line_1_1' title="bbox 1642 0 1826 560; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1642 0 1826 560; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 358 347 1646 680">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 358 347 1646 680">
+     <span class='ocr_line' id='line_1_2' title="bbox 410 347 1646 403; baseline 0.005 -15"><span class='ocrx_word' id='word_1_2' title='bbox 410 347 540 388; x_wconf 64' lang='lat' dir='ltr'><strong>Piri·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 575 348 717 390; x_wconf 70' lang='lat' dir='ltr'><strong>reim</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 766 347 1078 400; x_wconf 61' lang='lat' dir='ltr'><strong>tebet-aste·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1126 361 1193 392; x_wconf 76' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_6' title='bbox 1234 349 1486 402; x_wconf 58' lang='lat' dir='ltr'><strong>iuuante.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1535 351 1646 403; x_wconf 61' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 358 416 869 470; baseline 0.004 -13"><span class='ocrx_word' id='word_1_8' title='bbox 358 416 869 470; x_wconf 59' lang='lat' dir='ltr'><strong>dram,m18:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 410 487 1642 536; baseline 0.004 -7"><span class='ocrx_word' id='word_1_9' title='bbox 410 487 1642 536; x_wconf 47' lang='lat' dir='ltr'><strong>..Samdktndmbemuedimmdmff</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 410 558 1054 612; baseline 0.006 -13"><span class='ocrx_word' id='word_1_10' title='bbox 410 558 600 610; x_wconf 58' lang='lat' dir='ltr'><strong>Gallula</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 620 561 800 612; x_wconf 69' lang='lat' dir='ltr'><strong>mim-121</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 822 561 1054 612; x_wconf 67' lang='lat' dir='ltr'><strong>ntbssoeja:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 410 629 759 680; baseline 0 -8"><span class='ocrx_word' id='word_1_13' title='bbox 410 629 759 680; x_wconf 47' lang='lat' dir='ltr'><strong>,Divpndnmtffi</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
